@@ -1,4 +1,5 @@
-**Automatic Traffic Sign Detection**
+# Automatic Traffic Sign Detection
+
 Automatic traffic sign detection and recognition is an important part of an Advanced Driver Assistance Systems (ADAS). 
 Traffic symbols have several distinguishing features that are used for their detection and recognition. We were able to classify road signs on 43 differently labelled images. 
 Our model was successfully able to classify the image based on their true description. We were able to detect blurry and dark road signs and classify them correctly. 
