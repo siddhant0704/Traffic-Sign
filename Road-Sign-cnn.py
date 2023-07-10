@@ -316,7 +316,8 @@ def label_text(file):
     # Defining list for saving label in order from 0 to 42
     label_list = []
     
-    # Reading 'csv' file and getting image's labels
+    # Reading 'csv' file and getting image's labels 
+    #Adding them to a list called label list
     r = pd.read_csv(file)
     # Going through all names
     for name in r['SignName']:
